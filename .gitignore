@@ -1,0 +1,12 @@
+.idea/*
+out/
+target/
+serial
+
+.DS_Store
+
+.class
+
+.war
+.jar
+.ear
